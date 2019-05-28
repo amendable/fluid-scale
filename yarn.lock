@@ -2,8 +2,10 @@
 # yarn lockfile v1
 
 
-"@amendable/scale@file:../scale":
-  version "0.1.0"
+"@amendable/scale@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@amendable/scale/-/scale-0.0.1.tgz#9ac5bec28a12f24bc9935643469d8e53e90345fb"
+  integrity sha512-WnhzZVG9XYwwv7VuocpUTPV4nE7hoXK+1VPBEJx5C3JtDOtReNBINPilpL8jqu5F07AAk7dUhIK/DmhZNYrcQQ==
   dependencies:
     is-number "^7.0.0"
 

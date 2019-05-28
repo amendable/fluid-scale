@@ -1,6 +1,6 @@
 {
   "name": "@amendable/fluid-scale",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/commonjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
@@ -29,6 +29,6 @@
     "build-esm": "NODE_ENV=production BABEL_ENV=esm babel src --out-dir dist/esm --config-file ./babel.config.js"
   },
   "dependencies": {
-    "@amendable/scale": "file:/Users/domas/Developer/amendable/scale"
+    "@amendable/scale": "^0.0.1"
   }
 }
