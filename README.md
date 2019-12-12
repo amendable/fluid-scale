@@ -85,7 +85,7 @@ import inlineStyles from '@amendable/inline-styles'
 
 render(
   <AmendableProvider
-    resolvers={[fluidScale({ min: 5, max: 30 }), inlineStyles()]}>
+    resolvers={[fluidScale({ min: 5, max: 30 }), inlineStyles()]}
   >
     <Box fontSize={1}>
       Box with font size
